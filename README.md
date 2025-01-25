@@ -44,6 +44,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with a knack for transfo
 3. **Responsive Web Calculator**  
    - Created a responsive calculator using HTML, CSS, and JavaScript.  
    - [Live Demo](https://anish341.github.io/Calculator-Project/)
+   - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
