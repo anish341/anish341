@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with a knack for transfo
 
 ## 💼 **Professional Background**
 
-- **Data Analyst (Training)**  
+- **Data Analyst (Trainee)**  
   - Analyzing large datasets and creating dashboards using Power BI and Tableau.  
   - Conducting SQL training and optimizing database systems.  
 
